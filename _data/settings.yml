@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Home'
       url: '/'
     - title: 'About'
       url: '/about'
@@ -19,7 +19,7 @@ footer_settings:
   footer_tagline: From a Napkin Drawing to a Marketable Product.
 
 hero_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.4
 
 post_settings:
   grid_spacing: 10
