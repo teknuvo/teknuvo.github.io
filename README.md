@@ -1,1 +1,0 @@
-# teknuvo.github.io
