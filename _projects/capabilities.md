@@ -1,12 +1,12 @@
 ---
 title: 'Our Capabilities'
-subtitle: 'This is a demo'
+subtitle:
 date: 2019-08-15 00:00:00
 description: Our team supports your product end-to-end - from innovation to architecture, development, launch and operations. We can start by helping you evaluate possibilities of product, market and business potential.
 featured_image: '/images/developer.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<!-- ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
 
@@ -97,4 +97,4 @@ We've packed this theme with powerful features to show off your work.
 
 Why not put them to use on your new portfolio?
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a> -->

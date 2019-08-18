@@ -1,12 +1,12 @@
 ---
 title: 'Who Are We'
-subtitle: 'This is a demo'
+subtitle:
 date: 2019-08-17 00:00:00
 description: We are developers and designers with extensive experience in a variety of industries, bringing the best practices from one industry to another.
 featured_image: '/images/developer.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<!-- ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
 
@@ -97,4 +97,4 @@ We've packed this theme with powerful features to show off your work.
 
 Why not put them to use on your new portfolio?
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a> -->

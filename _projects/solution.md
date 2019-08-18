@@ -1,12 +1,12 @@
 ---
 title: 'Our Solutions'
-subtitle: 'This is a demo'
+subtitle:
 date: 2019-08-17 00:00:00
 description: We design and deliver Big Data and IoT-based solutions aiming to establish your company in the market as a technology and user experience innovator.
 featured_image: '/images/big-data.png'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<!-- ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
 
@@ -97,4 +97,4 @@ We've packed this theme with powerful features to show off your work.
 
 Why not put them to use on your new portfolio?
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a> -->
