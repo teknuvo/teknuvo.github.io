@@ -9,14 +9,14 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-	margin-top: 20px;
+	margin-top: 1px;
 
 	@include mq(tabletp) {
-		margin-top: 25px;
+		margin-top: 1px;
 	}
 
 	@include mq(laptop) {
-		margin-top: 30px;
+		margin-top: 1px;
 	}
 }
 
@@ -66,6 +66,7 @@
 		position: absolute;
 		top: 50%;
 		right: 20px;
+		margin-top: 50px;
 		@include translate(0,-50%);
 	}
 }

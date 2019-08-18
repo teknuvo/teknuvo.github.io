@@ -1,9 +1,9 @@
 ---
 title: 'Who Are We'
 subtitle: 'This is a demo'
-date: 2019-08-18 01:00:00
+date: 2019-08-17 00:00:00
 description: We are developers and designers with extensive experience in a variety of industries, bringing the best practices from one industry to another.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/developer.png'
 ---
 
 ![](/images/demo/demo-landscape.jpg)

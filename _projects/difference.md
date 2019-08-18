@@ -1,7 +1,7 @@
 ---
 title: 'Teknuvo Difference'
 subtitle: 'This is a demo'
-date: 2019-08-17 00:00:00
+date: 2019-08-14 00:00:00
 description: Our extensive entrepreneurship and technology expertise helps us design and engineer the right solution for your company and your market, beyond the code. 
 featured_image: '/images/demo/demo-square.jpg'
 ---

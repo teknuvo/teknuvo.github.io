@@ -1,9 +1,9 @@
 ---
 title: 'Our Solutions'
 subtitle: 'This is a demo'
-date: 2019-08-18 00:00:00
+date: 2019-08-17 00:00:00
 description: We design and deliver Big Data and IoT-based solutions aiming to establish your company in the market as a technology and user experience innovator.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/big-data.png'
 ---
 
 ![](/images/demo/demo-landscape.jpg)

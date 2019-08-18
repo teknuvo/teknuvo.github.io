@@ -1,9 +1,9 @@
 ---
 title: 'Our Capabilities'
 subtitle: 'This is a demo'
-date: 019-08-16 00:00:00
+date: 2019-08-15 00:00:00
 description: Our team supports your product end-to-end - from innovation to architecture, development, launch and operations. We can start by helping you evaluate possibilities of product, market and business potential.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/developer.png'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
