@@ -6,6 +6,8 @@ description: We are developers and designers with extensive experience in a vari
 featured_image: '/images/coding.jpg'
 ---
 
+We are developers and designers with extensive experience in a variety of industries, bringing the best practices from one industry to another.
+
 <!-- ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content

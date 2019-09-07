@@ -6,6 +6,8 @@ description: Our team supports your product end-to-end - from innovation to arch
 featured_image: '/images/analytics.jpg'
 ---
 
+Our team supports your product end-to-end - from innovation to architecture, development, launch and operations. We can start by helping you evaluate possibilities of product, market and business potential.
+
 <!-- ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content

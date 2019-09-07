@@ -6,6 +6,8 @@ description: We design and deliver Big Data and IoT-based solutions aiming to es
 featured_image: '/images/big-data.jpg'
 ---
 
+We design and deliver Big Data and IoT-based solutions aiming to establish your company in the market as a technology and user experience innovator.
+
 <!-- ![](/images/demo/demo-landscape.jpg)
 
 ## Demo content
