@@ -3,7 +3,7 @@ title: 'Our Solutions'
 subtitle:
 date: 2019-08-17 00:00:00
 description: We design and deliver Big Data and IoT-based solutions aiming to establish your company in the market as a technology and user experience innovator.
-featured_image: '/images/big-data.png'
+featured_image: '/images/big-data.jpg'
 ---
 
 <!-- ![](/images/demo/demo-landscape.jpg)

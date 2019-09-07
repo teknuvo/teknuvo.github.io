@@ -2,7 +2,7 @@
 title: About Us
 subtitle:
 description: About Teknuvo
-featured_image: /images/boston.png
+featured_image: /images/boston.jpg
 ---
 
 ## Who We Are
