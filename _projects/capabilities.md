@@ -3,7 +3,7 @@ title: 'Our Capabilities'
 subtitle:
 date: 2019-08-15 00:00:00
 description: Our team supports your product end-to-end - from innovation to architecture, development, launch and operations. We can start by helping you evaluate possibilities of product, market and business potential.
-featured_image: '/images/developer.png'
+featured_image: '/images/coding.jpg'
 ---
 
 <!-- ![](/images/demo/demo-landscape.jpg)
